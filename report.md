@@ -62,8 +62,8 @@ mellan min barndoms hemby och närmsta grannort slog mig som perfekt av flera
 anledningar:
 
 1. Den har traditionellt inte använts för friluftsliv, så den är relativt orörd av människan.
-2. Det finns inga stigar (till min vetskap) mellan byn och orten som går över skogen.[^1]
-3. Inga farliga rovdjur bor i skogen.[^2]
+2. Det finns inga stigar (till min vetskap) mellan byn och orten som går över skogen.<sup>1</sup>
+3. Inga farliga rovdjur bor i skogen.<sup>2</sup>
 4. Den är belägen på en halvö, så håller man sig i en riktning kommer man antingen ut ur skogen eller till vatten. Det vill säga det är lätt att hitta ut om man villar bort sig helt.
 5. Skogen var måttligt stor, med 827 hektars area.
 
@@ -137,12 +137,12 @@ att förståelse för friluftslivet innebörd ger en den motivering som kra�
 praktisera hållbart friluftsliv, då man värnar om aktivitetens möjlighet. Djupare
 än så kan jag inte reflektera över denna relation utan att spränga ordgränsen.
 
-[^1] Det finns en gammal skoterled som inte verkar varit underhållen på flera år och nog inte går
-att följa
+<sub>1 Det finns en gammal skoterled som inte verkar varit underhållen på flera år och nog inte går
+att följa</sub>
 
-[^2] I samband med att jag skriver den här texten undersökte jag det här och har upptäckt att
+<sub>2 I samband med att jag skriver den här texten undersökte jag det här och har upptäckt att
 rovdjursattacker på människor är nästintill icke existerande i Sverige(Rovdjurscentret De 5 Stora,
-2023), men det visste jag inte då.
+2023), men det visste jag inte då.</sub>
 
 ## Källor
 
